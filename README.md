@@ -10,7 +10,7 @@ https://time-list.vercel.app/
 ![image](https://user-images.githubusercontent.com/103211332/187273901-7fdbd44d-9f74-4875-acea-6e97cb57b636.png)
 
 ## Mobile
-![image](https://user-images.githubusercontent.com/103211332/187274095-3f650b9a-c676-4d8d-84d9-8ac04730a962.png)
+![image](https://user-images.githubusercontent.com/103211332/187274196-7ba48b26-f949-445f-8a86-c79208c5d230.png)
 
 ## Project setup
 ```
