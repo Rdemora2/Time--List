@@ -5,13 +5,13 @@
                         <span class="icon">
                             <i class="fas fa-play"></i>
                         </span>
-                        <span>play</span>
+                        <span>Start task</span>
                     </button>
                     <button class="button" @click="finalizar" :disabled="!cronometroRodando">
                         <span class="icon">
                             <i class="fas fa-stop"></i>
                         </span>
-                        <span>stop</span>
+                        <span>Finish task</span>
                     </button>
                 </div>
 </template>
