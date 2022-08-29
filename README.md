@@ -3,8 +3,11 @@
 ## Preview
 https://time-list.vercel.app/
 
-![image](https://user-images.githubusercontent.com/103211332/187273451-e928a9df-1214-4072-9529-0013069dbf92.png)
+## Light Mode
+![image](https://user-images.githubusercontent.com/103211332/187273773-5f7286df-3730-442c-a9c7-215ffc169219.png)
 
+## Dark Mode(in progress)
+![image](https://user-images.githubusercontent.com/103211332/187273901-7fdbd44d-9f74-4875-acea-6e97cb57b636.png)
 
 ## Project setup
 ```
