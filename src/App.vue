@@ -9,7 +9,7 @@
 
         <Tarefa v-for="(tarefa, index) in tarefas" :key="index" :tarefa="tarefa"/>
         <Box v-if="listaEstaVazia">
-        Ops, você ainda não executou nenhuma tarefa hoje! :(
+        Oops, you haven't performed any tasks today! :(
         </Box>
       </div>
     </div>
@@ -57,6 +57,7 @@ export default defineComponent({
 </script>
 
 <style>
+
 .lista {
   padding: 1.25rem;
 }
@@ -71,6 +72,7 @@ main.modo-escuro{
 }
 .conteudo{
   background-color: var(--bg-primario);
+  height: 100vh;
 }
 
 
