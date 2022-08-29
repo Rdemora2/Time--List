@@ -3,6 +3,9 @@
 ## Preview
 https://time-list.vercel.app/
 
+![image](https://user-images.githubusercontent.com/103211332/187273451-e928a9df-1214-4072-9529-0013069dbf92.png)
+
+
 ## Project setup
 ```
 npm install
