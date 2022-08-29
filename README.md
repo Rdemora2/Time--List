@@ -1,5 +1,8 @@
 # Time List
 
+## Preview
+https://time-list.vercel.app/
+
 ## Project setup
 ```
 npm install
