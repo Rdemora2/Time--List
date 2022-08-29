@@ -1,9 +1,9 @@
 <template>
   <main class="columns is-gapless is-multiline" :class="{ 'modo-escuro': modoEscuroAtivo}">
-    <div class="column is-one-quarter">
+    <div class="column is-1">
       <BarraLateral @aoTemaAlterado="trocarTema"/>
     </div>
-    <div class="column is-three-quarter conteudo">
+    <div class="column is-11 conteudo">
       <Formulario @aoSalvarTarefa="salvarTarefa"/>
       <div class="lista">
 
@@ -66,7 +66,7 @@ main {
   --texto-primario: #000;
 }
 main.modo-escuro{
-  --bg-primario: #2b2d42;
+  --bg-primario: #072846;
   --texto-primario: #ddd;
 }
 .conteudo{
