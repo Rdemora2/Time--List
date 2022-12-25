@@ -1,5 +1,8 @@
 # Time List
 
+## About
+Project of a task timer made in vue.js
+
 ## Preview
 https://time-list.vercel.app/
 
